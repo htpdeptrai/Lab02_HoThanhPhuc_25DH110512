@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lap trinh web\\lab02\\lab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|D:\\lap trinh web\\lab02\\lab02\\bai1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|solutionrelative:bai1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|d:\\lap trinh web\\lab02\\lab02\\bai1\\views\\home\\bai3b.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\home\\bai3b.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|d:\\lap trinh web\\lab02\\lab02\\bai1\\views\\home\\bai2b.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\home\\bai2b.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|d:\\lap trinh web\\lab02\\lab02\\bai1\\views\\home\\bai1b.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\home\\bai1b.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|d:\\lap trinh web\\lab02\\lab02\\bai1\\views\\home\\bai4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\home\\bai4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|D:\\lap trinh web\\lab02\\lab02\\bai1\\views\\home\\bai3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\home\\bai3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|D:\\lap trinh web\\lab02\\lab02\\bai1\\views\\home\\bai2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\home\\bai2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|D:\\lap trinh web\\lab02\\lab02\\bai1\\views\\home\\bai1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A48B3690-FF85-4E29-AAB1-37F0394AF8A7}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\home\\bai1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bai3b.cshtml",
+              "DocumentMoniker": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Views\\Home\\bai3b.cshtml",
+              "RelativeDocumentMoniker": "bai1\\Views\\Home\\bai3b.cshtml",
+              "ToolTip": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Views\\Home\\bai3b.cshtml",
+              "RelativeToolTip": "bai1\\Views\\Home\\bai3b.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T08:32:25.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bai2b.cshtml",
+              "DocumentMoniker": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Views\\Home\\bai2b.cshtml",
+              "RelativeDocumentMoniker": "bai1\\Views\\Home\\bai2b.cshtml",
+              "ToolTip": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Views\\Home\\bai2b.cshtml",
+              "RelativeToolTip": "bai1\\Views\\Home\\bai2b.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T08:31:48.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bai1b.cshtml",
+              "DocumentMoniker": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Views\\Home\\bai1b.cshtml",
+              "RelativeDocumentMoniker": "bai1\\Views\\Home\\bai1b.cshtml",
+              "ToolTip": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Views\\Home\\bai1b.cshtml",
+              "RelativeToolTip": "bai1\\Views\\Home\\bai1b.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T08:30:56.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bai4.cshtml",
+              "DocumentMoniker": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Views\\Home\\bai4.cshtml",
+              "RelativeDocumentMoniker": "bai1\\Views\\Home\\bai4.cshtml",
+              "ToolTip": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Views\\Home\\bai4.cshtml",
+              "RelativeToolTip": "bai1\\Views\\Home\\bai4.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T15:35:24.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bai3.cshtml",
+              "DocumentMoniker": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Views\\Home\\bai3.cshtml",
+              "RelativeDocumentMoniker": "bai1\\Views\\Home\\bai3.cshtml",
+              "ToolTip": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Views\\Home\\bai3.cshtml",
+              "RelativeToolTip": "bai1\\Views\\Home\\bai3.cshtml",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAYwKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T14:47:44.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bai2.cshtml",
+              "DocumentMoniker": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Views\\Home\\bai2.cshtml",
+              "RelativeDocumentMoniker": "bai1\\Views\\Home\\bai2.cshtml",
+              "ToolTip": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Views\\Home\\bai2.cshtml",
+              "RelativeToolTip": "bai1\\Views\\Home\\bai2.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAYwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T14:39:41.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "bai1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "bai1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:27:54.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bai1.cshtml",
+              "DocumentMoniker": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Views\\Home\\bai1.cshtml",
+              "RelativeDocumentMoniker": "bai1\\Views\\Home\\bai1.cshtml",
+              "ToolTip": "D:\\lap trinh web\\lab02\\lab02\\bai1\\Views\\Home\\bai1.cshtml",
+              "RelativeToolTip": "bai1\\Views\\Home\\bai1.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwC8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T14:12:54.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
